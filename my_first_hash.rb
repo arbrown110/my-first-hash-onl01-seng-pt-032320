@@ -1,8 +1,7 @@
 
-def my_hash
+def my_hash(your_hash)
+  your__hash = {"color" => "Brown"}
   
-  your_hash = {"color" => "Brown"}
-  my_hash
 end
 
 
